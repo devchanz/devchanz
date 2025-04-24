@@ -12,7 +12,7 @@
 
 ---
 
-## 📫 Contact
+<h2 align="center"> 📫 Contact</h2>
 
 <p>
   <a href="mailto:kcg7799@gmail.com">
