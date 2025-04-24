@@ -14,7 +14,7 @@
 
 <h2 align="center"> 📫 Contact</h2>
 
-<p>
+<p align="center">
   <a href="mailto:kcg7799@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-kcg7799@gmail.com-red?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
@@ -22,7 +22,7 @@
 
 ---
 
-## 🛠️ Tech Stacks
+<h2 align="center"> 🛠️ Tech Stacks </h2>
 
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
