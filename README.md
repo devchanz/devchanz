@@ -54,6 +54,7 @@
 <ul align="center">
   <li>한국기술교육대학교 컴퓨터공학부 (2016.03 ~ 2024.02 졸업)</li>    
   <li>KT AIVLE SCHOOL 6기 AI Developer 과정 (2024.09 ~ 2025.02 수료)</li>
+  <li>ABC부트캠프 8기 데이터 탐험가 과정 (2025.07 ~ 2025.08 수료)</li>
 </ul>
 
 ---
@@ -63,6 +64,7 @@
 <ul align="center">
   <li>정보처리기사</li>
   <li>AICE Associate</li>
+  <li>SQLD</li>
 </ul>
 
 ---
