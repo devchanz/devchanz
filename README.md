@@ -78,7 +78,7 @@
 
 ---
 
-<h2 align="center">🚀 Goals for 2025</h2>
+<h2 align="center">🚀 Goals for 2026</h2>
 
 <ul align="center">
   <li>[ ] 풀스택 웹 프로젝트 배포 및 유지보수 경험 쌓기</li>  
