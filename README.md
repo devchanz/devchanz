@@ -81,7 +81,7 @@
 <h2 align="center">🚀 Goals for 2026</h2>
 
 <ul align="center">
-  <li>[ ] 풀스택 웹 프로젝트 배포 및 유지보수 경험 쌓기</li>  
+  <li>[ ] 풀스택 웹 프로젝트 배포 및 유지보수</li>  
   <li>[ ] 데이터 엔지니어링 파이프라인 구축</li>
   <li>[ ] Azure 기반 DevOps 실무 적용 경험 확장</li>
   <li>[ ] RAG 트렌드 활용 프로젝트 진행</li>
