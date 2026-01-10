@@ -7,8 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-stack+Developer+in+Progress;Data+Engineer+%7C+ML+Learner;Passionate+about+Real-World+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=AI+Product+Builder" alt="Typing SVG" />
 </p>
+
 
 ---
 
