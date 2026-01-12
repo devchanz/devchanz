@@ -66,6 +66,7 @@
   <li>정보처리기사</li>
   <li>AICE Associate</li>
   <li>SQLD</li>
+  
 </ul>
 
 ---
