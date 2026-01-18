@@ -23,7 +23,7 @@
 
 ---
 
-<h2 align="center">🛠️ Tech Stacks</h2>
+<h2 align="center">🛠️  Tech Stacks</h2>
 
 <div align="center">
 
