@@ -13,7 +13,7 @@
 
 ---
 
-<h2 align="center">📫 Contact</h2>
+<h2 align="center">📫 Contact </h2>
 
 <div align="center">
   <a href="mailto:kcg7799@gmail.com">
