@@ -50,7 +50,7 @@
 
 ---
 
-<h2 align="center">🎓Education & Training</h2>
+<h2 align="center">🎓Education & Training </h2>
 
 <ul align="center">
   <li>한국기술교육대학교 컴퓨터공학부(2016.03 ~ 2024.02 졸업)</li>    
