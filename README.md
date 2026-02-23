@@ -88,6 +88,7 @@
   <li>[ ] Azure 기반 DevOps 실무 적용 경험 확장</li>
   <li>[ ] RAG 트렌드 활용 프로젝트 진행</li>
   <li>[ ] 기술 블로그 운영 및 기록관리(Velog, Obsidian, Notion)</li>
+  <li>[ ] AI 에이전트 설계 및 구축</li>
 </ul>
 
 ---
