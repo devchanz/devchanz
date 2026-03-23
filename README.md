@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there, I'm <a href="#">chanz</a>👋  
+  Hi there, I'm <a href="#">devchanz</a>👋  
 </h1>
 
 <p align="center">
